@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Livewire\inventaris;
+namespace App\Livewire\Inventaris;
 
 use Livewire\Component;
 use App\Models\Barang;

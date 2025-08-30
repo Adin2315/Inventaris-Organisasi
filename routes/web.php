@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\DashboardController;
 use App\Livewire\Anggota\AnggotaCrud;
-use App\Livewire\inventaris\BarangCrud;
+use App\Livewire\Inventaris\BarangCrud;
 use App\Livewire\Inventaris\KategoriCrud;
 use App\Livewire\Settings\Appearance;
 use App\Livewire\Settings\Password;
